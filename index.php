@@ -1,1 +1,1 @@
-<?php include_once("../HTML/portfolio.html")?>
+<?php include_once("portfolio.html")?>
