@@ -1,0 +1,135 @@
+html, body{
+    height: 100%;
+    background-color:#10f512 ;
+    margin: 0;
+}
+
+#container{
+    /* border: 2px solid yellow; */
+
+    height: inherit;
+    background-color: #232323;
+    font-family: sans-serif;
+    padding: 0px 100px 0px 80px; /*top, right, bottom, left*/
+}
+
+#top{
+        /* border: 2px solid yellow; */
+        overflow: hidden;
+        padding-top: 55px;
+
+}
+#menu{
+    /* display: flex;
+    justify-content: flex-end; */
+    /* list-style-type: none; */
+    /* border: 2px solid yellow; */
+    margin: 0;
+    float: right;
+    margin-top: 9px;
+    
+    /* text-align: right; */
+    /* padding: 25px; */
+
+}
+
+li{
+    display: inline;
+    padding-left: 80px;
+    /* border: 2px solid yellow; */
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+#title{
+    /* border: 2px solid yellow; */
+    margin: 0;
+    /* padding-left: 100px; */
+    float: left;
+    /* width: 420px; */
+    /* margin-top: 45px; */
+}
+
+#title a{
+    color: #10f512;
+    font-size: 1.5em;
+    font-weight: bolder;
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#title li{
+    padding: 0;
+}
+
+#mid_container{
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* flex-direction: column; */
+    /* border: 5px solid red; */
+    /* vertical-align: middle; */
+    /* overflow: hidden; */
+    padding-top: 190px;
+    /* clear: both; */
+}
+
+#l1{
+    /* position: relative; */
+    padding-left: 41%;
+    /* border: 2px solid yellow; */
+    color: white;
+    /* text-align: center; */
+    word-spacing: 5px;
+    /* background-color: lightblue; */
+}
+
+span{
+    /* border: 2px solid yellow; */
+
+    /* position: absolute; */
+    /* left: 580px;
+    top: -15px; */
+}
+
+#l2{
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-content: center; */
+    /* align-items: center; */
+    color: #10f512;
+    text-align: center;
+    font-family:fantasy;
+    font-size:5em;
+    line-height: 80px;
+    letter-spacing: 4px;
+    font-weight: bold;
+    
+}
+
+#l3, #l4{
+    /* float:left; */
+    /* display: flex;
+    flex-direction: column; */
+    /* display: flex;
+    justify-content: flex-end; */
+    /* padding-left: 690px; */
+    padding-left: 51%;
+    /* flex-wrap: wrap; */
+    color: white;
+    /* text-align: center; */
+    word-spacing: 5px;
+    /* border: 2px solid yellow; */
+    /* width: 805px; */
+
+}
+
+
+
